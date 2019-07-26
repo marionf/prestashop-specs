@@ -101,10 +101,7 @@
 		<summary>Products</summary>
 	<ul>
 		<li>
-			<a href="https://github.com/PrestaShop/prestashop-specs/Order-List.md">List Page</a>
-		</li>
-		<li>
-			<a href="https://github.com/PrestaShop/prestashop-specs/Order-Add.md">Add/Edit Page</a>
+			<a href="https://github.com/PrestaShop/prestashop-specs/Catalog-Products-add-edit-elements-in-all-tabs.md">List Page</a>
 		</li>
 	</ul>
 	</details>
